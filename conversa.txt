@@ -13,3 +13,6 @@ comandos
 ssh-keygen - gera uma senha
 git diff - mostra a diferença entre o arquivo editado por ultimo e o novo
 git commit -a -m " . . . "  = git add .  + git commit -m 
+
+
+branch teste de conversaalteracoes
