@@ -16,3 +16,7 @@ git commit -a -m " . . . "  = git add .  + git commit -m
 
 
 branch teste de conversaalteracoes
+...
+.
+..
+.
